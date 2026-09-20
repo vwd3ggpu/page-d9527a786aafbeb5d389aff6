@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "cb09c21d2e9c008b12a706ce",
+  "owner": "vwd3ggpu",
+  "repo": "page-d9527a786aafbeb5d389aff6",
+  "title": "速鹰",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d9527a786aafbeb5d389aff6",
+      "a": "速鹰",
+      "b": "稳定全球clash加速器",
+      "entity": "速鹰",
+      "brand": "速鹰",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "3d039f5ad97cfd4e88083ca2e8a9983687e87ab47f4426556afc4421911a679e",
+      "content": {
+        "primary_entity": "速鹰",
+        "keyword1": "速鹰",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择客户端：Windows 和 macOS 常用 Clash Verge、ClashX Pro；Android 可用 Clash Meta for Android；iOS 可选 Stash 或 Shadowrocket；路由器可部署 OpenClash。",
+          "AI_CLIENTS_TITLE": "速鹰客户端选择",
+          "AI_CLOSING_TEXT": "速鹰提供从基础版到团队版的多档订阅，按设备数量和月流量选择，再参考对应客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "按需求选择速鹰套餐",
+          "AI_DESCRIPTION": "，速鹰提供基础版、旗舰版与团队版三档订阅。基础版每月 100GB 流量，支持 3 台设备；旗舰版每月 300GB，支持 5 台设备，含 IPLC 专线优化；团队版每月 1000GB，支持 20 台设备，适合小团队多人共享。按年付更划算，基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。",
+          "AI_FEATURES_INTRO": "速鹰套餐围绕流量、设备数与线路类型区分，选择时先确认常用设备数量和每月大致用量。",
+          "AI_FEATURES_TITLE": "速鹰套餐特点",
+          "AI_FEATURE_TEXT_1": "基础版月付 ¥15，含 100GB 流量，支持 3 台设备，适合手机加电脑的轻量使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版月付 ¥35，含 300GB 流量，支持 5 台设备，配 IPLC 专线优化游戏加速。",
+          "AI_FEATURE_TEXT_3": "团队版月付 ¥85，含 1000GB 流量，支持 20 台设备，可定制企业路由。",
+          "AI_FEATURE_TITLE_1": "入门轻量",
+          "AI_FEATURE_TITLE_2": "进阶均衡",
+          "AI_FEATURE_TITLE_3": "团队共享",
+          "AI_GUIDE_INTRO": "先确定设备数量和月流量，再对照速鹰套餐权益，最后按客户端文档导入订阅。",
+          "AI_GUIDE_TITLE": "速鹰使用步骤",
+          "AI_HERO_INTRO": "速鹰提供多档 Clash 订阅套餐，覆盖基础版、旗舰版与团队版，按流量和设备数量灵活选择，满足个人与团队多设备加速需求。",
+          "AI_HERO_SUBTITLE": "速鹰多设备 Clash 加速订阅",
+          "AI_HIGHLIGHT_1": "三档订阅覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "流量从 100GB 到 1000GB",
+          "AI_HIGHLIGHT_3": "支持多平台 Clash 客户端",
+          "AI_PLANS_INTRO": "基础版适合 1 至 3 台设备轻量使用；旗舰版适合 5 台设备以内、需要流媒体和游戏加速；团队版支持 20 台设备，适合小团队共享。年付分别 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "速鹰套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量、月流量和是否需要流媒体或游戏加速，确定基础版、旗舰版或团队版。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的设备数与客户端类型，确认手机、电脑或路由器满足适配要求。",
+          "AI_STEP_TEXT_3": "获取订阅链接后，按对应客户端文档导入配置，完成节点加载与连接测试。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "速鹰多设备 Clash 订阅",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "速鹰的套餐如何选择？",
+          "AI_FAQ_ANSWER_1": "先看同时在线的设备数量，再看每月大致流量。1至3台设备、100GB以内选基础版；5台以内、需要游戏加速选旗舰版；20台设备、多人共用选团队版。",
+          "AI_FAQ_QUESTION_2": "订阅地址应如何导入客户端？",
+          "AI_FAQ_ANSWER_2": "在对应客户端中选择添加订阅，粘贴速鹰提供的订阅链接并保存，随后更新订阅即可拉取节点列表。不同客户端的菜单名称略有差异，具体以客户端文档为准。",
+          "AI_FAQ_QUESTION_3": "速鹰支持多少台设备同时在线？",
+          "AI_FAQ_ANSWER_3": "基础版支持3台设备，旗舰版支持5台设备，团队版支持20台设备。多台设备共享同一订阅时，需注意设备总数不要超过所选套餐的上限。",
+          "AI_FAQ_QUESTION_4": "月付和年付有什么区别？",
+          "AI_FAQ_ANSWER_4": "月付按月扣费，适合短期或试用；年付一次性支付全年费用，基础版¥150/年、旗舰版¥350/年、团队版¥850/年，折算后单月成本低于月付。",
+          "AI_FAQ_QUESTION_5": "流量用完后会怎样？",
+          "AI_FAQ_ANSWER_5": "每个月度周期内分配的流量为100GB、300GB或1000GB，超出后连接可能受限。建议在客户端中留意流量统计，结合使用习惯在下一周期前调整套餐档位。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "zfuwqev.cn",
+    "host": "zfuwqev.cn"
+  },
+  "file_hashes": {
+    "index.html": "6d692f857ad80be0ba35f6489aac2738ae2ace36e94a2e411069c832c9bffc1d",
+    "sitemap.xml": "3440d93d3fb57e8bf8ed1a467e26fb99995dfc088643b3701d4bf0617e1aa0a2",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "8a8b39d66163299c11389131fe6aff4a826d964614ec99ad2e69aeb244298680",
+    "robots.txt": "3a11b647dfd315a882a6aa1c028a70fa7533a8c259315a452b14d5466da88143",
+    "865774183e195f97bb554f92294cf479.txt": "610b89fc956f87923d47cd9b20f01bfd3d30e0738123321e30c075feb6862f26"
+  },
+  "revision": "e12468527b54cc1352acb4b3a2f7cfdbb8f1ec678a59ecf55b3ec20c0c42ce23"
+}
